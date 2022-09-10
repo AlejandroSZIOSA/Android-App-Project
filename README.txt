@@ -9,7 +9,6 @@ This is my first Android-App (Developing)
 
 This app is basically a “Shopping List” with some extra helpful features. 
 The main objective of my App is to save money and time before you go shopping. This app is destined for private use, I mean for one person.
-
 I created this App with the intention to help people have more control over “The Pantry” and “Shopping” , using modern technology techniques. In this case an Android App
 
 If you want see a quick look at my App, you can watch the Demo
