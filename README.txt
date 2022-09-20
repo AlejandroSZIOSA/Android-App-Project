@@ -1,3 +1,6 @@
++ My first Android App
++ Some Labs
+
 My first Android App
 
 App Name: Pocket Inventory + Shopping Helper 
