@@ -15,4 +15,4 @@ The main objective of my App is to save money and time before you go shopping. T
 I created this App with the intention to help people have more control over “The Pantry” and “Shopping” , using modern technology techniques. In this case an Android App
 
 If you want see a quick look at my App, you can watch the Demo
-If you want see details "the code" so you can contact me to ggato33@gmail.com
+If you want see details "the code" so you can download the zip "My_Private_Inventory"
